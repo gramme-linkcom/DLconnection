@@ -12,4 +12,4 @@ dlconnection is a bot project that connects Discord and Line to each other, maki
  - Middle Server : Go lang
 
 ## Legal notice
-Please read <a href="">README.md</a>
+Please read <a href="https://github.com/gramme-linkcom/dlconnection/blob/main/LICENSE">LICENSE</a>
