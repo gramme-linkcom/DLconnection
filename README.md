@@ -1,5 +1,5 @@
-# dlconnection
-dlconnection is a bot project that connects Discord and Line to each other, making it easier to exchange messages and other information.
+# DLconnection
+DLconnection is a bot project that connects Discord and Line to each other, making it easier to exchange messages and other information.
 
 ## Planned
  - Read Discord messages from Line.
