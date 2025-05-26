@@ -10,3 +10,6 @@ dlconnection is a bot project that connects Discord and Line to each other, maki
 ## Using languages
  - Bots : Rust
  - Middle Server : Go lang
+
+## Legal notice
+Please read <a href="">README.md</a>
